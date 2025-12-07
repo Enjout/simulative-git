@@ -1,0 +1,51 @@
+user_id,name,age,city,signup_date,plan,sessions_30d,revenue_usd,nps,is_active
+1001,Maxim,32,Rotterdam,2024-03-03,free,11,46.98,6,1
+1002,Sofia,20,Kazan,2024-12-17,pro,10,7.84,7,1
+1003,Olga,31,Kazan,2024-08-18,free,3,8.0,2,1
+1004,Dmitry,34,Moscow,2024-08-28,basic,12,25.09,5,1
+1005,Maxim,21,Kazan,2024-02-21,basic,11,9.84,0,1
+1006,Elena,35,Kazan,2024-04-05,free,8,8.74,6,1
+1007,Ivan,25,Moscow,2024-08-09,pro,9,7.1,0,0
+1008,Maxim,21,Kazan,2024-08-18,pro,8,11.86,8,1
+1009,Olga,19,Yekaterinburg,2024-08-24,free,18,28.37,0,1
+1010,Dmitry,23,Saint Petersburg,2024-05-22,free,5,49.05,0,1
+1011,Sofia,39,Rotterdam,2024-06-19,free,3,9.09,6,1
+1012,Olga,27,Saint Petersburg,2024-01-29,free,7,23.26,1,1
+1013,Olga,21,Moscow,2024-02-05,free,9,15.05,4,1
+1014,Ivan,39,Novosibirsk,2024-01-13,basic,6,76.91,7,1
+1015,Anna,35,Rotterdam,2024-06-08,basic,9,68.34,7,1
+1016,Dmitry,43,Moscow,2024-11-22,free,5,4.94,2,1
+1017,Maria,29,Novosibirsk,2024-07-05,free,2,23.94,6,1
+1018,Olga,19,Saint Petersburg,2024-08-30,pro,8,26.19,2,1
+1019,Anna,27,Moscow,2024-03-26,free,8,14.77,5,1
+1020,Maria,21,Rotterdam,2024-10-10,free,6,12.25,5,0
+1021,Dmitry,31,Rotterdam,2024-03-06,free,9,9.62,2,0
+1022,Alex,33,Amsterdam,2024-06-18,pro,3,13.43,6,1
+1023,Elena,32,Yekaterinburg,2024-02-14,free,5,41.47,2,1
+1024,Anna,25,Kazan,2024-03-02,basic,13,32.82,7,1
+1025,Nikita,31,Novosibirsk,2024-05-13,basic,12,21.55,9,0
+1026,Alex,40,Amsterdam,2024-10-10,free,10,10.93,3,1
+1027,Elena,42,Kazan,2024-01-28,basic,7,13.62,0,1
+1028,Ivan,25,Kazan,2024-04-17,free,6,101.16,3,0
+1029,Maxim,38,Moscow,2024-02-13,basic,5,78.72,6,1
+1030,Sofia,33,Kazan,2024-12-05,basic,9,13.14,10,1
+1031,Nikita,30,Yekaterinburg,2024-10-12,basic,6,7.69,3,1
+1032,Ivan,35,Rotterdam,2024-11-26,free,4,14.76,5,0
+1033,Dmitry,32,Amsterdam,2024-05-07,pro,8,17.31,8,0
+1034,Ivan,38,Kazan,2024-12-13,free,9,6.36,0,0
+1035,Maxim,41,Moscow,2024-08-18,free,10,29.61,4,1
+1036,Dmitry,43,Yekaterinburg,2024-07-08,free,8,20.27,10,1
+1037,Nikita,42,Saint Petersburg,2024-08-12,basic,13,15.59,6,0
+1038,Maxim,30,Rotterdam,2024-10-09,basic,6,12.6,0,1
+1039,Maria,26,Rotterdam,2024-04-30,free,15,43.91,3,0
+1040,Sofia,32,Amsterdam,2024-04-25,basic,8,10.94,5,0
+1041,Nikita,30,Rotterdam,2024-08-20,free,10,125.29,1,1
+1042,Maria,18,Kazan,2024-09-15,basic,5,27.2,9,1
+1043,Elena,42,Moscow,2024-12-24,free,12,25.32,4,1
+1044,Nikita,24,Rotterdam,2024-07-16,basic,9,35.54,10,1
+1045,Elena,26,Rotterdam,2024-05-16,free,4,76.82,9,1
+1046,Dmitry,41,Saint Petersburg,2024-11-13,pro,7,12.7,0,1
+1047,Maria,18,Saint Petersburg,2024-06-13,free,4,38.49,5,1
+1048,Sofia,29,Novosibirsk,2024-08-12,free,7,37.15,5,1
+1049,Maxim,25,Yekaterinburg,2024-11-02,free,7,53.59,3,1
+1050,Olga,41,Kazan,2024-08-21,pro,7,17.97,7,1
